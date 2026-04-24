@@ -1,0 +1,10 @@
+.buildozer/
+build/
+dist/
+bin/
+*.pyc
+__pycache__/
+.DS_Store
+*.egg-info/
+.venv/
+.env
